@@ -18,7 +18,7 @@ export default function HeroSection() {
               Digital Marketing Analyst
             </div>
             <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6">
-              Driving <span className="text-brand-green">14x ROAS</span> Through Data-Driven Marketing
+              driving growth Through Data-Driven Marketing
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Experienced Digital Marketing Analyst specializing in Meta & Google Ads optimization. 
